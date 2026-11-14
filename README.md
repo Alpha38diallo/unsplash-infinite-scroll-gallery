@@ -1,5 +1,7 @@
 # Unsplash Infinite Scroll Gallery
 
+![Project Preview](screenshots/preview.png)
+
 A responsive image gallery built with HTML, CSS, and JavaScript using the Unsplash API.
 
 ## Features
